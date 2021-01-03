@@ -3,7 +3,6 @@
 // cc values for buttons
 int cc_off = 0;
 int cc_on = 127;
-int cc_super = 127;
 
 // map buttons to cc for button
 int cc0 = 39;
